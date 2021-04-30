@@ -4,6 +4,9 @@ Just a quick 1 day project to learn pygame.
 its a sudo bullethell/spaceinvader crossover
 enemies spawn and fly at a randsom speed, dodge or destroy them
 
+spacebar to shoot
+arrow keys to move
+
 there a 1/4 chance of ammo spawning after destroying an enemy
 each ammo box holds anywhere from 1-20 rounds. 
 
